@@ -3,7 +3,7 @@
 **Effective date:** 2026-05-22  
 **App:** FIDELVERSE: Learn Ethiopian Fidel  
 **Package:** `com.fidelverse.app`  
-**Developer contact:** *(add support email before publishing)*
+**Developer contact:** abiysetargewkenaw@gmail.com
 
 ## Overview
 
@@ -65,5 +65,5 @@ version.
 
 If you have questions about this policy, contact:
 
-**Email:** *(add support email before publishing)*
+**Email:** abiysetargewkenaw@gmail.com
 
